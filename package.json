@@ -13,5 +13,6 @@
 	},
 	"author":"manan",
 	"description": "trial project",
-	"keywords":["manan", "freecodecamp", "starter"]
+	"keywords":["manan", "freecodecamp", "starter"],
+	"license":"MIT"
 }
