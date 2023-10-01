@@ -14,5 +14,6 @@
 	"author":"manan",
 	"description": "trial project",
 	"keywords":["manan", "freecodecamp", "starter"],
-	"license":"MIT"
+	"license":"MIT",
+	"version":"1.0.0"
 }
