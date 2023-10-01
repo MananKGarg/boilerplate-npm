@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author":"manan",
-	"description": "trial project"
+	"description": "trial project",
+	"keywords":["manan", "freecodecamp", "starter"]
 }
